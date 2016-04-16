@@ -1,0 +1,6 @@
+plugin:
+    name: 'commotion.optimisation::lang.plugin.name'
+    description: 'commotion.optimisation::lang.plugin.description'
+    author: 'Commotion Creative'
+    icon: oc-icon-line-chart
+    homepage: ''
